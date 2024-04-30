@@ -18,14 +18,21 @@ Shortcut for: Settings > Privacy & Security > Location Services
 
 Calculator for Date functions:
 
-- How many days between 2 dates
-  
+#Main Select page
 <img width="391" alt="Screenshot 2024-04-30 at 4 31 52 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/0f6900f5-a081-4f58-b20d-541475768aad">
+
+
+- How many days between 2 dates
+
+#Select Start Date
 
 <img width="344" alt="Screenshot 2024-04-30 at 4 33 07 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/beab0c30-03b4-4e85-8679-f4e756b1d311">
 
+#Select End Date
+
 <img width="341" alt="Screenshot 2024-04-30 at 4 34 52 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/decee255-b370-406e-a154-ad00bb222e30">
 
+#Output of Days left
 <img width="342" alt="Screenshot 2024-04-30 at 4 36 17 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/a2090f20-768a-4dba-b08a-d98b6019221b">
 
 
