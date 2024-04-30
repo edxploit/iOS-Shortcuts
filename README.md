@@ -32,6 +32,11 @@ Calculator for Date functions:
   
 - How many days left for a date
 
+<img width="343" alt="Screenshot 2024-04-30 at 4 37 18 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/0e019e1f-efc5-4333-8998-6394a9a430f5">
+
+
+<img width="345" alt="Screenshot 2024-04-30 at 4 37 54 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/4d39cb3e-6c3c-4788-89e0-226ead4a5220">
+
 
 - How many working days
 
