@@ -49,6 +49,7 @@ Calculator for Date functions:
 <img width="343" alt="Screenshot 2024-04-30 at 4 37 18 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/0e019e1f-efc5-4333-8998-6394a9a430f5">
 
 #Select End Date:
+
 <img width="346" alt="Screenshot 2024-04-30 at 4 49 54 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/a4bf1138-222a-495a-9c59-dbf302fa03e7">
 
 #Output of Days left:
