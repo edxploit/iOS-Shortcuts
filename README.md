@@ -24,6 +24,8 @@ Shortcut for: Settings > Privacy & Security > Location Services
 /---------------------------------------------------------------------------------------------------------------/
 #datecalculator.ios (works on macOS too)
 
+MM/DD/YYYY
+
 Calculator for Date functions:
 
 #Main Select Menu
