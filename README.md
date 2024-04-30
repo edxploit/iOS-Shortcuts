@@ -73,3 +73,17 @@ Calculator for Date functions:
 <img width="342" alt="Screenshot 2024-04-30 at 4 45 39 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/6e86a1ea-f712-45ab-a215-71df83917abc">
 
 /---------------------------------------------------------------------------------------------------------------/
+
+#privacy-security.scpt.macos
+
+Opens up Privacy & Security 
+(similar to location.ios except macOS doesn't handle GPS in the same structure. You gotta click Location Services and toggle ON/OFF manually)
+
+Allow Script Editor
+
+<img width="483" alt="Screenshot 2024-04-30 at 5 11 56 PM" src="https://github.com/edxploit/iOS-macOS/assets/43484396/4e7e46e2-51eb-4837-a4d1-57f4ad1c52f7">
+
+Run the script
+
+<img width="1412" alt="Screenshot 2024-04-30 at 5 44 35 PM" src="https://github.com/edxploit/iOS-macOS/assets/43484396/13243598-91a2-4708-bcdb-65604f4ebc44">
+
