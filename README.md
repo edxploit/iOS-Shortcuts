@@ -22,7 +22,7 @@ Calculator for Date functions:
 
 /---------------------------------------------------------------------------------------------------------------/
 
-#Main Select page
+#Main Select Menu
 
 <img width="391" alt="Screenshot 2024-04-30 at 4 31 52 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/0f6900f5-a081-4f58-b20d-541475768aad">
 
@@ -44,7 +44,9 @@ Calculator for Date functions:
 
 /---------------------------------------------------------------------------------------------------------------/
   
-- How many days left for a date
+- How many days left for a date?
+
+#Select Start Date
 
 <img width="343" alt="Screenshot 2024-04-30 at 4 37 18 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/0e019e1f-efc5-4333-8998-6394a9a430f5">
 
@@ -53,7 +55,9 @@ Calculator for Date functions:
 
 /---------------------------------------------------------------------------------------------------------------/
 
-- How many working days
+- How many working days?
+
+#Select Start Date
 
 <img width="342" alt="Screenshot 2024-04-30 at 4 45 22 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/e3f4228c-34f7-4da4-9043-b4f896936429">
 
