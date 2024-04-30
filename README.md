@@ -4,7 +4,7 @@
                                    
 /---------------------------------------------------------------------------------------------------------------/
 
-
+AppleScript: https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html#//apple_ref/doc/uid/TP40000983-CH208-SW1
 /---------------------------------------------------------------------------------------------------------------/
 #location.ios
 
