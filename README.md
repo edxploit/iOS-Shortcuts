@@ -54,7 +54,7 @@ Calculator for Date functions:
 ### privacy-security.scpt.macos
 
 #### Opens up Privacy & Security
-(Similar to location.ios except macOS doesn't handle GPS in the same structure. You gotta click Location Services and toggle ON/OFF manually)
+Similar to [location.ios] except macOS doesn't handle GPS in the same structure. You gotta click Location Services and toggle ON/OFF manually.
 
 ![Allow Script Editor](https://github.com/edxploit/iOS-macOS/assets/43484396/4e7e46e2-51eb-4837-a4d1-57f4ad1c52f7)
 ![Run the script](https://github.com/edxploit/iOS-macOS/assets/43484396/13243598-91a2-4708-bcdb-65604f4ebc44)
