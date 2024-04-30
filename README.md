@@ -57,6 +57,8 @@ Calculator for Date functions:
 
 <img width="342" alt="Screenshot 2024-04-30 at 4 45 22 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/e3f4228c-34f7-4da4-9043-b4f896936429">
 
+<img width="347" alt="Screenshot 2024-04-30 at 4 47 27 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/d16b8fd7-ea79-4732-8a61-208d2a4acac2">
+
 <img width="342" alt="Screenshot 2024-04-30 at 4 45 39 PM" src="https://github.com/edxploit/iOS-Shortcuts/assets/43484396/6e86a1ea-f712-45ab-a215-71df83917abc">
 
 /---------------------------------------------------------------------------------------------------------------/
