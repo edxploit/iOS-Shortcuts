@@ -1,7 +1,5 @@
 # iOS Shortcuts and Apple Script Editor Scripts
 
-**[IMPORTANT]**: Version: 1.0 (*Expect bugs and errors*)
-
 ## Overview
 
 This repository contains scripts created for the iOS Shortcuts app and Apple Script Editor. These scripts automate various tasks and functionalities, enhancing user productivity. Below are the details of the scripts included in this repository:
